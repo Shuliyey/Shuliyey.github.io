@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: 叶泽宇
 email: shuliyey@gmail.com
-description: > # 叶泽宇's personal blog on Mathematics, Computer Science, Physics
-  and Engineering.
+description: >
+  叶泽宇's personal blog on Mathematics, Computer Science, Physics
+  and Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "shuliyey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shuliyey
