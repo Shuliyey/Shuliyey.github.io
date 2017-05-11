@@ -3,6 +3,8 @@ layout: google_map
 title:  "Melbourne Datathon"
 date:   2017-05-06 08:49:07 +1100
 categories: jekyll update
+js:
+  - js/build/bundle.js
 map:
   origin:
     latitude: -37.814
