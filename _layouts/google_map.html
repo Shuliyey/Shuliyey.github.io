@@ -33,7 +33,7 @@ layout: default
       xmlHttp.open("GET", theUrl, true); // true for asynchronous
       xmlHttp.send(null);
   }
-  httpGetAsync("https://raw.githubusercontent.com/Shuliyey/Shuliyey.github.io/master/_data/geo_infor.csv", (response) => {
+  httpGetAsync("{{page.data_link[0]}}", (response) => {
 
   });
   // console.log('{{site.data.geo_infor}}');

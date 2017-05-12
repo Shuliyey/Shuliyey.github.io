@@ -12,6 +12,8 @@ map:
 contributors:
   - 孙沛佳
   - 叶泽宇
+data_link:
+  - https://raw.githubusercontent.com/Shuliyey/Shuliyey.github.io/master/_data/geo_info.csv
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
